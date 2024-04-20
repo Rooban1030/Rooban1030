@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rooban1030
-- 👀 I’m interested in Block chain
-- 🌱 I’m currently pursuing my B.Tech degree on information technology
+- 👋 Hi, I’m Rooban
+- 👀 I'm intrested in Data Engineering
+- 🌱 I’m currently working as Data Engineer at LTIMindtree 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :ph:8072980751
 
